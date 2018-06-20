@@ -23,12 +23,12 @@
 }
 
 .navbar a {
-    float: right;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 20px;
-    text-decoration: underline;
+  float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: underline;
   }
 
 .navbar a.right {
@@ -42,7 +42,7 @@
 
 .row {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: row;
 }
 
 .main {
